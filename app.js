@@ -1,4 +1,4 @@
-const elements = ["a","b","c" ,"b"]
+const elements = ["a","b","c" ,"b","v"]
 elements.forEach((item)=> console.log(item)
 );
 const myDonnes = [12,23,34,56,67]
