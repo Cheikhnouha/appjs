@@ -1,4 +1,4 @@
-const elements = ["a","b","c"]
+const elements = ["a","b","c" ,"b"]
 elements.forEach((item)=> console.log(item)
 );
 const myDonnes = [12,23,34,56,67]
@@ -9,7 +9,7 @@ console.log(found);
 const array1 = ['a', 'b', 'c'];
 
 array1.forEach((element) => console.log(element));
-
+ 
 const tableaux = ['nouha','barro',"cheikh"];
 tableaux.forEach((item) =>{
  console.log(item);
