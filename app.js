@@ -17,7 +17,7 @@ tableaux.forEach((item) =>{
 const inclure  = ['nouha','cheikh','zakir','barro'];
 console.log(inclure.includes('fallby')); /* includes renvoie que si l'item est dans le 
 le tableau cela est vrai sino false */
-const elemts = ['Fire', 'Air', 'Water'];
+const elemts = ['Fire', 'Air', 'Water','doudoy'];
 
 console.log(elemts.join()); /* Concaténation par virgule (),ou part tiret ('-') */
 
